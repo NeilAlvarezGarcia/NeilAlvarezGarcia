@@ -14,5 +14,5 @@ I´m a software developer passionated about open sources tools and code.
 - 🌱 I’m currently learning high knowledge about React.js
 - 👯 I’m looking to collaborate on open sources projects
 - 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/neil-alvarez-garcia-655639212/) or send an email Neil8b.jjr2014@gmail.com
-- ⚡ Fun fact: I used to think that you could only learn what teachers give you.
+- ⚡ Fun fact: I used to think that i could only learn what teachers give me.
 
