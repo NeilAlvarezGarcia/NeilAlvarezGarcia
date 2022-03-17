@@ -14,7 +14,7 @@ I´m a software FrontEnd developer passionated about open sources tools and code
   - English Advance-level
 - 🌱 I’m currently learning high knowledge about React.js combined with Typescript and Next.js
 - 👯 I’m looking to collaborate on open sources projects
-- 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/neil-alvarez-garcia-655639212/) or send an email Neil8b.jjr2014@gmail.com
+- 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/neil-alvarez-garcia/) or send an email Neil8b.jjr2014@gmail.com
 - ⚡ Fun fact: I used to think that i could only learn what teachers give me.
 - Drink a coffee and get the hell up. The limits are in those things you believe you can´t accomplish.
 
