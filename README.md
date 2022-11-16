@@ -18,6 +18,6 @@ I´m a software FullStack developer passionated about open sources tools and cod
 - 👯 I’m looking to collaborate on open sources projects
 - 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/neil-alvarez-garcia/) or send an email Neil8b.jjr2014@gmail.com
 - Also can take a look at me in my portfolio [here](https://portfolioneilalvarez.netlify.app/ "here")
-- ⚡ Fun fact: I used to think that i could only learn what teachers give me.
+- ⚡ Fun fact: I used to think that I could only learn what teachers give me.
 - Drink a coffee and get the hell up. The limits are in those things you believe you can´t accomplish.
 
