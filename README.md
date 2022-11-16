@@ -13,7 +13,7 @@ I´m a software FullStack developer passionated about open sources tools and cod
   - MongoDB
   - Git
   - Visual Studio Code
-  - English Advance-level
+  - English
 - 🌱 I’m currently learning Backend Development with Express and Mysql as Database.
 - 👯 I’m looking to collaborate on open sources projects
 - 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/neil-alvarez-garcia/) or send an email Neil8b.jjr2014@gmail.com
