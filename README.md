@@ -14,7 +14,8 @@ I'm a Software developer passionate about open source tools and code.
   - Git, Docker
   - English, Espanish
 - 🌱 I’m currently improving Backend Development knowledge with GraphQL.
+- 🎹 Currently learning how to play the piano
 - 📫 Reach me on: [Linkedin](https://www.linkedin.com/in/neil-alvarez-garcia/) or send an email Neil8b.jjr2014@gmail.com
 - ⚡ Fun fact: I used to think that I could only learn what teachers gave me.
-- Drink up a coffe and lets code.
+- ☕️ Drink up a coffe and lets code.
 
